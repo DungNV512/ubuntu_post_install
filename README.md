@@ -59,3 +59,4 @@ other programs that will be downloaded and installed:
  - Microsoft Teams
  - Docker
  
+This script also install Oh My Zsh, PowerLevel10k and some plugins.
