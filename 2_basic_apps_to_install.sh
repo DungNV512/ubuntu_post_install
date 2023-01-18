@@ -35,6 +35,7 @@ sudo apt install -y curl # data transfer tool
 sudo apt install -y vim # text editor
 sudo apt install -y qbittorrent # BitTorrent client
 sudo apt install -y git # version control system
+sudo apt install -y jq # tool for parsing and manipulating JSON data
 
 # Other apps:
 sudo apt install -y clamav # antivirus software
